@@ -1,0 +1,1 @@
+DELETE FROM teachers_info WHERE email = 'batyr2001@gmail.com';

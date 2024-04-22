@@ -1,0 +1,1 @@
+INSERT INTO teachers_info (name, surname, email, module_id) VALUES ('Batyrkhan', 'Adilbekov', 'batyr2001@gmail.com', 1);
